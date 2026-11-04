@@ -1,0 +1,8 @@
+name = "coconut"
+compatibility_date = "2026-10-16"
+pages_build_output_dir = "./public"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "coconutgamesusrpasswd"
+database_id = "8256ca8d-641d-4fac-911f-3268163f8344"
